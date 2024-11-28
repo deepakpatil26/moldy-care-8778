@@ -17,13 +17,13 @@ Zara.com is more than an e-commerce platform - it's a global fashion phenomenon 
 
 ### 👥 Dream Team
 
-| Student ID | Name | Role | Contribution |
-|-----------|------|------|--------------|
-| fw18_0109 | Shital Suman | Frontend Architect | UI/UX Design |
-| fw19_0390 | Ravinder | Backend Developer | Data Management |
-| fw19_0574 | Tejasvi Bishnoi | Full Stack Developer | Integration Specialist |
-| fw20_0892 | Rajan Manu Pandey | UI Developer | Responsive Design |
-| fw19_0456 | Deepak Patil | Project Coordinator | Overall Execution |
+| Student ID | Name |
+|-----------|------|
+| fw18_0109 | Shital Suman |
+| fw19_0390 | Ravinder |
+| fw19_0574 | Tejasvi Bishnoi |
+| fw20_0892 | Rajan Manu Pandey |
+| fw19_0456 | Deepak Patil |
 
 ### 🌐 Project Leadership
 **IA Manager**: Mayur Wagh - Guiding the team's strategic vision
@@ -53,22 +53,22 @@ Zara.com is more than an e-commerce platform - it's a global fashion phenomenon 
 ### 🏠 Homepage
 ![Homepage](https://github.com/deepakpatil26/moldy-care-8778/assets/103636083/46ccc2a0-3c19-46ff-834b-e94377e0ae9f)
 
-### 👚 Product Categories
+### 👤 User Authentication
 ![Product Categories](https://github.com/deepakpatil26/moldy-care-8778/assets/103636083/81d45b79-00c5-4f91-8118-c004bdd1c8db)
 
-### 🔍 Product Details
+### Men Section
 ![Product Details](https://github.com/deepakpatil26/moldy-care-8778/assets/103636083/d45a99ab-2183-4994-bf94-ffe00dd33336)
 
-### 🛒 Shopping Cart
+### Kids Section
 ![Shopping Cart](https://github.com/deepakpatil26/moldy-care-8778/assets/103636083/78f7ef3a-91c8-4954-b0d4-5c43a9a04e18)
 
-### 💳 Checkout Process
+### 🔍 Product Details
 ![Checkout](https://github.com/deepakpatil26/moldy-care-8778/assets/103636083/ded969f0-becc-49b3-b184-fff124b86463)
 
-### 👤 User Authentication
+### 🔍 Product Details
 ![User Authentication](https://github.com/deepakpatil26/moldy-care-8778/assets/103636083/6f564c82-f1d4-466d-86db-9823b35c7976)
 
-### 🏷️ Final Order Confirmation
+### 🔍 Product Details
 ![Order Confirmation](https://github.com/deepakpatil26/moldy-care-8778/assets/103636083/95383509-aa74-47f8-8106-00b921a27bfc)
 </details>
 
